@@ -63,7 +63,7 @@ header > hr{
     /* -------------------/ Menu ------------------ */
 /* ------------------- baner ------------------ */ 
 .baner{
-    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5)), url(images/tlo.jpg) no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5)), url(images/reichstag.jpg) no-repeat;
     background-size: cover;
     min-height: 400px;
     display: flex;
